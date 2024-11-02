@@ -20,10 +20,6 @@ A platform built during a hackathon to provide students in Indian universities w
 	•	Database: [Specify database, e.g., MySQL, MongoDB, etc.]
 	•	Frameworks/Libraries: Include any additional libraries used, such as React, Bootstrap, or GSAP.
 
-📸 Screenshots
-
-	Note: Add screenshots of your project’s main features to give users a preview of the platform.
-
 🚀 Getting Started
 
 To get a local copy of the project up and running, follow these steps:
